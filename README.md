@@ -1,2 +1,2 @@
-# Game-Test-Positions
-Positions for computer game programs
+# Game Test Positions
+Test positions for computer game programs
